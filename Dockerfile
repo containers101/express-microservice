@@ -1,1 +1,1 @@
-FROM nodejs:onbuild
+FROM node:onbuild
